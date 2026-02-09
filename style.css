@@ -14,7 +14,7 @@ header{
     flex-direction: column;
     align-items: center;
     padding: 35px;
-    height:50vh;
+    height:60vh;
 }
 html{
     scroll-behavior: smooth;
@@ -130,3 +130,4 @@ footer{
     }
 
 }
+
